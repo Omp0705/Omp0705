@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Patil</h1>
 # 💫 About Me:
- A passionate developer who loves building and learning new things. Here's a snapshot of what I'm up to:
+- A passionate developer who loves building and learning new things. Here's a snapshot of what I'm up to:
 
 - 🔧 **Working on**: Eventify, a user-friendly event management platform.  
 - 🤝 **Looking to collaborate on**: Open-source backend projects (RESTful APIs, microservices, cloud infrastructure) and Android apps (Jetpack Compose, API integrations, utility apps). Let's build something impactful together!  
