@@ -9,7 +9,7 @@
 
 ## Tech Stack
 - 💻 **Backend**: Java (Spring Boot), Python (Flask), RESTful APIs, WebSockets, MySQL  
-- 📱 **Android**: Java, Kotlin, Jetpack Compose, MVVM Architecture, Clean Architecture, Retrofit, Room Database, Firebase, Dagger Hilt  
+- 📱 **Android**: Java, Kotlin, Jetpack Compose, MVVM Architecture,MVC, Retrofit, Room Database, Firebase, Dagger Hilt  
 - 🗄️ **Databases**: MySQL, MongoDB, Firebase  
 - 🛠️ **Tools**: Git, GitHub, Postman, Figma  
 
